@@ -1,3 +1,3 @@
 # Data-Science-Investigation-Project
-This repository contains statistical analysis of five different cases
+This repository contains statistical analysis of five different case studies
 using various quantitative methods and statistical techniques for analyzing data
